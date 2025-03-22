@@ -1,1 +1,0 @@
-Tauri (Rust) + React + TypeScript
