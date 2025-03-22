@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue) ![Platform](https://img.shields.io/badge/platform-win|macos|linux-lightgrey)
 
-A modern, flippable CLI widget with keybind management that stays on top of your workflow.
+A modern, flippable CLI widget with keybind management that keeps you on top of your workflow...literally!
 
 ![LazyLine Demo](docs/demo.gif)
 
